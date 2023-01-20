@@ -1,0 +1,2 @@
+# operacni-system
+Operační systém
